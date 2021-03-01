@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntroductionOnlickXML</string>
+    <string name="get_started">Get Started</string>
+    <string name="login_to_system">Login to System</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="username">Username</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+</resources>
